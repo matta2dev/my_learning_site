@@ -8,11 +8,8 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    color:white;
+    
 }
 
 ul.topnav li {float: left;}
